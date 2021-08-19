@@ -6,7 +6,7 @@ Step 1 : Create a folder on your desktop and move main.py to it
 Step 2 : Create a google sheet and enter 0 in cell B1
 
 Step 3 : Follow steps in this video https://youtu.be/4ssigWmExak?t=221 from  3:41  till 8:58
-          Dont forget to move keys.json to same folder where main.py is present
+         Dont forget to move keys.json to same folder where main.py is present
 
 Step 4 : Enter the spreadsheet id at line number 13
 
